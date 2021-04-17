@@ -1,6 +1,6 @@
 title: "All Things Compute"
 author: "Steven Beasley"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "A site dedicated to computing"
 permalink: /:categories/:year/:month/:day/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
