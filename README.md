@@ -4,6 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-Greetings! My name is Steven Beasley, and I'm an Associate Principal Consultant at Magenic/Softvision a Cognizant division.  
+Greetings! My name is Steven Beasley, and I'm an Senior Software Delivery Manager at Cognizant/Softvision.  
 
-I've worked in software development for 20 years, and my passions are working with dotnet arena, cloud technologies, and kubernetes.  Primarily I work in the backend services and databases.
+I've worked in software development for over 20 years, and my passions are working with dotnet arena, cloud technologies, and kubernetes.  Recently I was promoted into a management position, but I'm still passionate about technology.
