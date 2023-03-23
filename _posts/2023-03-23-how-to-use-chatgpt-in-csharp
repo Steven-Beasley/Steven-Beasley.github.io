@@ -1,3 +1,9 @@
+---
+title: "How to Use the ChatGPT in C#"
+layout: post
+categories: chatgpt
+---
+
 # How to Use the ChatGPT API in C#
 
 ChatGPT is a powerful language model developed by OpenAI that can generate human-like text responses to a wide range of input prompts. With the ChatGPT API, you can integrate this cutting-edge technology into your own C# applications with ease. In this guide, we'll walk you through the process of using the ChatGPT API in C#.
