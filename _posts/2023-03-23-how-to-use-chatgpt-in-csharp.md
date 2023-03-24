@@ -55,7 +55,7 @@ This code will generate a response to the prompt "Hello, ChatGPT!" using the Dav
 
 The ChatGPT API offers a wide range of options for customizing your requests. Here are some of the most important parameters:
 
-- `**engine**`: Specifies which GPT model to use. The available engines are **`davinci`**, **`curie`**, **`babbage`**, and **`ada`**. The Davinci engine is the most powerful and is recommended for most use cases.
+- **`engine`**: Specifies which GPT model to use. The available engines are **`davinci`**, **`curie`**, **`babbage`**, and **`ada`**. The Davinci engine is the most powerful and is recommended for most use cases.
 - **`prompt`**: The input prompt to generate a response for.
 - **`maxTokens`**: The maximum number of tokens to generate in the response.
 - **`n`**: The number of responses to generate.
