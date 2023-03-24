@@ -49,18 +49,18 @@ class Program
 }
 ```
 
-This code will generate a response to the prompt "Hello, ChatGPT!" using the Davinci engine, which is the most powerful engine available. The `**maxTokens**` parameter controls the length of the response, while `**temperature**` controls the creativity of the response.
+This code will generate a response to the prompt "Hello, ChatGPT!" using the Davinci engine, which is the most powerful engine available. The **`maxTokens`** parameter controls the length of the response, while **`temperature`** controls the creativity of the response.
 
 ## Customizing Your Request
 
 The ChatGPT API offers a wide range of options for customizing your requests. Here are some of the most important parameters:
 
-- `**engine**`: Specifies which GPT model to use. The available engines are `**davinci**`, `**curie**`, `**babbage**`, and `**ada**~. The Davinci engine is the most powerful and is recommended for most use cases.
-- `**prompt**`: The input prompt to generate a response for.
-- `**maxTokens**`: The maximum number of tokens to generate in the response.
-- `**n**`: The number of responses to generate.
-- `**stop**`: A sequence of tokens where the API will stop generating further tokens. This can be used to generate responses with a specific ending.
-- `**temperature**`: Controls the creativity of the response. Lower temperatures produce more predictable and conservative responses, while higher temperatures produce more surprising and diverse responses.
+- `**engine**`: Specifies which GPT model to use. The available engines are **`davinci`**, **`curie`**, **`babbage`**, and **`ada`**. The Davinci engine is the most powerful and is recommended for most use cases.
+- **`prompt`**: The input prompt to generate a response for.
+- **`maxTokens`**: The maximum number of tokens to generate in the response.
+- **`n`**: The number of responses to generate.
+- **`stop`**: A sequence of tokens where the API will stop generating further tokens. This can be used to generate responses with a specific ending.
+- **`temperature`**: Controls the creativity of the response. Lower temperatures produce more predictable and conservative responses, while higher temperatures produce more surprising and diverse responses.
 
 ## Conclusion
 
