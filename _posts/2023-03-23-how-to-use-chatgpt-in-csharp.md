@@ -66,4 +66,6 @@ The ChatGPT API offers a wide range of options for customizing your requests. He
 
 In this blog post, we've shown you how to use the ChatGPT API in C# to generate human-like text responses to input prompts. With a little bit of programming experience and some familiarity with the Markdown syntax, you can quickly and easily integrate this powerful tool into your own applications. We hope this guide has been helpful, and we look forward to seeing what you create with the ChatGPT API!
 
-## P.S. This article was written by ChatGPT. How crazy is that.
+## P.S. This article was written by ChatGPT.
+
+How crazy is that.
