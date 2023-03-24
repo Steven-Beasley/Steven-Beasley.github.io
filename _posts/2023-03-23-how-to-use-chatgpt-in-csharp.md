@@ -68,4 +68,6 @@ In this blog post, we've shown you how to use the ChatGPT API in C# to generate 
 
 ## P.S. This article was written by ChatGPT.
 
+I asked chat GPT on how to use itself, and this is what it generated.
+
 How crazy is that.
